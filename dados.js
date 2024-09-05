@@ -20,7 +20,7 @@ let dados = [
     descricao:
       "Chandra Nalaar é uma planeswalker piromante, conhecida por seu temperamento explosivo e seu amor por aventuras. Ela possui um dom para a magia de fogo e é uma feroz defensora dos oprimidos.",
     link: "https://mtg.fandom.com/wiki/Chandra_Nalaar",
-    plano: "Regatha",
+    plano: "Kaladesh",
     habilidades: "Piromancia, transformação",
   },
   {
@@ -40,7 +40,7 @@ let dados = [
     habilidades: "Manipulação temporal, metamorfose",
   },
   {
-    nome: "Vraska, a Bruxa Marinha",
+    nome: "Vraska",
     descricao:
       "Vraska, a Bruxa Marinha, é uma poderosa planeswalker golgari conhecida por sua astúcia e crueldade. Ela manipula a vida e a morte, e comanda um exército de criaturas das profundezas.",
     link: "https://mtg.fandom.com/wiki/Vraska",
@@ -48,7 +48,7 @@ let dados = [
     habilidades: "Necromancia, controle de criaturas",
   },
   {
-    nome: "Kaya, a Ornitóloga",
+    nome: "Kaya Cassir",
     descricao:
       "Kaya, a Ornitóloga, é uma planeswalker de Kamigawa que possui um forte vínculo com os espíritos. Ela utiliza sua conexão com o mundo espiritual para proteger os inocentes e buscar justiça.",
     link: "https://mtg.fandom.com/wiki/Kaya",
