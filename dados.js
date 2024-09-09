@@ -6,6 +6,7 @@ let dados = [
     link: "https://mtg.fandom.com/wiki/Jace_Beleren",
     plano: "Ravnica",
     habilidades: "Ilusões, telepatia",
+    tags: "Ilusionista, Planeswalker, Telepata, Estrategista, Manipulador Mental",
   },
   {
     nome: "Nahiri, a Litomante",
@@ -14,6 +15,7 @@ let dados = [
     link: "https://mtg.fandom.com/wiki/Nahiri",
     plano: "Zendikar",
     habilidades: "Manipulação de mana, criação de artefatos",
+    tags: "Planeswalker, Litomante, Criadora de Artefatos, Manipuladora de Mana, Destruidora",
   },
   {
     nome: "Chandra Nalaar",
@@ -22,6 +24,7 @@ let dados = [
     link: "https://mtg.fandom.com/wiki/Chandra_Nalaar",
     plano: "Kaladesh",
     habilidades: "Piromancia, transformação",
+    tags: "Planeswalker, Piromante, Aventureira, Defensora, Impulsiva",
   },
   {
     nome: "Liliana Vess",
@@ -30,6 +33,7 @@ let dados = [
     link: "https://mtg.fandom.com/wiki/Liliana_Vess",
     plano: "Dominaria",
     habilidades: "Necromancia, controle de mortos",
+    tags: "Planeswalker, Necromante, Manipuladora, Ambiciosa, Pactuante com Demônios",
   },
   {
     nome: "Nicol Bolas",
@@ -38,6 +42,7 @@ let dados = [
     link: "https://mtg.fandom.com/wiki/Nicol_Bolas",
     plano: "Dominaria",
     habilidades: "Manipulação temporal, metamorfose",
+    tags: "Planeswalker, Dragão Ancião, Manipulador, Estrategista, Buscador de Conhecimento",
   },
   {
     nome: "Vraska",
@@ -46,6 +51,7 @@ let dados = [
     link: "https://mtg.fandom.com/wiki/Vraska",
     plano: "Ravnica",
     habilidades: "Necromancia, controle de criaturas",
+    tags: "Planeswalker, Bruxa Marinha, Golgari, Astuta, Comandante de Criaturas",
   },
   {
     nome: "Kaya Cassir",
@@ -54,6 +60,7 @@ let dados = [
     link: "https://mtg.fandom.com/wiki/Kaya",
     plano: "Kamigawa",
     habilidades: "Espiritualismo, proteção",
+    tags: "Planeswalker, Ornitóloga, Protetora, Conexão Espiritual, Justiça",
   },
   {
     nome: "Teferi, Mestre do Tempo",
@@ -62,6 +69,7 @@ let dados = [
     link: "https://mtg.fandom.com/wiki/Teferi",
     plano: "Dominaria",
     habilidades: "Manipulação do tempo, conjuração",
+    tags: "Planeswalker, Mestre do Tempo, Manipulador Temporal, Sábio, Protetor",
   },
   {
     nome: "Nissa Revane",
@@ -71,5 +79,6 @@ let dados = [
     plano: "Zendikar",
     habilidades:
       "Manipulação de plantas, crescimento acelerado, conexão com a terra, transformação",
+    tags: "Planeswalker, Elfa, Guardiã da Natureza, Manipuladora de Plantas, Protetora do Ecossistema",
   },
 ];
